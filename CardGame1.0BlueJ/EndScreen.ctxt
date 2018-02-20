@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EndScreen()
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=i
+comment3.target=void\ setPrintString(int)
+numComments=4

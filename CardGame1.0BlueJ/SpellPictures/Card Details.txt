@@ -1,0 +1,10 @@
+Armageddon - Board clear 
+Bubble Buddy - 1 Mana 1 Atk 3 HP BlUE
+Centaur - 5M 6A 4HP GREEN
+Flame Warden - 6M 5A 7HP RED
+Flip Flop - Swap HP and Atk
+Rambo (Fox) - 3M 6A 2HP RED RARE
+Grasping Roots - Freeze target
+New Hand - Discard Current hand draw 4 cards.
+Organic Coffee - 8M 7A 11HP GREEN 
+Welè - 4M 4A 6HP BLUE

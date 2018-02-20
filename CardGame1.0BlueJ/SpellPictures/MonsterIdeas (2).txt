@@ -1,0 +1,31 @@
+
+name, mana, attack, defense, type, rarity
+
+Monster("Squid",2, 3, 3, blue, false) 
+
+Monster("Flame Warrior",3, 4,2, red, false)
+Monster(Snake,2, 1, 5, green, false)
+
+Monster("Grass Man",9, 11,5, green, true) 
+
+Monster(Fire Girl,6, 5,5, red, false)
+
+Monster(Shark Man,7, 8,2 blue, false)
+
+
+
+Flanked- Opponent takes 2 damage
+Spell("Flanked", 2)
+
+Unleashed- Summon one monster without mana
+
+Insta-kill- instanly kills a random monster on the battlefield
+
+Overpowered- Monster takes 2 damage
+Spell("Overpowered", 2)
+
+The Healer- Player is healed 2 points
+Spell("The Healer", 2)
+
+Bonus Power- +1 mana this turn
+

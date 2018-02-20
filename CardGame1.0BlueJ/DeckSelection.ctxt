@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DeckSelection()
+comment1.params=button\ x\ y\ height\ length
+comment1.target=void\ initiateButtons(javax.swing.JButton,\ int,\ int,\ int,\ int)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=deck\ player
+comment3.target=void\ makeJusticeMonsterDeck(java.util.ArrayList,\ boolean)
+comment4.params=deck\ player
+comment4.target=void\ makeJusticeSpellDeck(java.util.ArrayList,\ boolean)
+comment5.params=deck\ player
+comment5.target=void\ makeEvilMonsterDeck(java.util.ArrayList,\ boolean)
+comment6.params=deck\ player
+comment6.target=void\ makeEvilSpellDeck(java.util.ArrayList,\ boolean)
+comment7.params=url
+comment7.target=void\ setBackground(java.lang.String)
+comment8.params=g
+comment8.target=void\ paintComponent(java.awt.Graphics)
+numComments=9
